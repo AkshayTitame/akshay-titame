@@ -1,3 +1,3 @@
 # akshay-titame
 This is my first Git Repository
-Author - Akshay Titame
+Author - Akshay Titame(its Akshay)
